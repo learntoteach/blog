@@ -1,19 +1,19 @@
 # ----
 # Site
 
-title: Edition Template
-url: "https://long-pig.cloudvent.net"
+title: Comp Sci and Maths Blog
+url: "learntoteach.github.io"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product documentation template for Jekyll.
+description: Blog for computer science and math
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: Ryan Hui
+  email: ryanhui.kh@gmail.com
+  twitter: Ryan14180604
 social:
   name: Edition Template
   links:

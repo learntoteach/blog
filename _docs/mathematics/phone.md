@@ -1,6 +1,6 @@
 ---
-title: Phone
-category: Contact Syncing
+title: Introduction to Abstract Algebra
+category: Mathematics
 order: 2
 ---
 
