@@ -7,10 +7,11 @@ order: 1
 ## Introduction
 
 What is \\( \displaystyle\int_{0}^{\pi}\sin(x) \mathrm{d}x \\) ? It is simply
-\\( -\cos(x) \\) evaluated from $x=0$ to $x=\pi$. In other words, $-\cos(\pi)-(-\cos(0))
-= -1 + 1 = 0$. Something should bother you though. Why did we use antiderivatives
-when solving for integrals? In order to give the reader a complete answer we will
-go through one of the common constructions of integrals and derivatives.
+\\( -\cos(x) \\) evaluated from \\(x=0\\) to \\(x=\pi\\). In other words,
+\\()-\cos(\pi)-(-\cos(0))= -1 + 1 = 0\\). Something should bother you though.
+Why did we use antiderivatives when solving for integrals? In order to give the
+reader a complete answer we will go through one of the common constructions of
+integrals and derivatives.
 
 Many students at the post-secondary level know how to differentiate and
 integrate real-valued functions like $f(x)=2x+13$ and $g(x)=e^x+\sin(x)$.
