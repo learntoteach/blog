@@ -22,6 +22,8 @@ social:
 # -----
 # Build
 
+markdown: redcarpet
+
 permalink: pretty
 
 plugins:
