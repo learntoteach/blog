@@ -2,6 +2,7 @@
 title: Differential and Integral Calculus
 category: Mathematics
 order: 1
+published: true
 ---
 
 ## Introduction
